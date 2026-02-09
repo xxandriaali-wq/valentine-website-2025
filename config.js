@@ -33,8 +33,8 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
-            yesBtn: "Meh!",                                             // Text for "Yes" button
+            text: "Will you be my Gay Valentine on February 14th, 2025? 🌹", // The big question!
+            yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
     },
@@ -47,9 +47,9 @@ const CONFIG = {
         normal: "And beyond! 🥰"                           // Shows when they go past 100%
     },
 
-    // Messages that appear after they say "Meh!"
+    // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
+        title: "Yay! I knew you were Gay. I'm the luckiest person in the world! 🎉💝💖💝💓",
         message: "Now come get your gift, a big warm hug and a huge kiss!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
