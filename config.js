@@ -5,11 +5,11 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     
-    valentineName: "Lalida",
+    valentineName: "Lee Yao Ming",
 
     // The title that appears in the browser tab
     // You can use emojis!
-    pageTitle: "Will You Be My Valentine, Schatz? 🩵",
+    pageTitle: "Will You Be My Valentine? 🩵",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -22,20 +22,20 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: " Do you like me ?",                                    // First interaction
-            yesBtn: "Ja",                                             // Text for "Yes" button
-            noBtn: "Nein",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            text: " Can you be gay for me ?",                                    // First interaction
+            yesBtn: "Yes",                                             // Text for "Yes" button
+            noBtn: "Definately",                                               // Text for "No" button
+            secretAnswer: "I love it when youre gay af! ❤️"           // Secret hover message
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
+            startText: "Meh!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
             text: "Will you be my Valentine on February 14th, 2026? 🌹", // The big question!
-            yesBtn: "JAAAAA !",                                             // Text for "Yes" button
-            noBtn: "NEIN🥹"                                                 // Text for "No" button
+            yesBtn: "Hmmm !",                                             // Text for "Yes" button
+            noBtn: "Nope🥹"                                                 // Text for "No" button
         }
     },
 
